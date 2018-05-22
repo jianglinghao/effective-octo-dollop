@@ -1,1 +1,1 @@
-# effective-octo-dollop
+# 翻译 oneminutejs 的深入理解vue源码系列 
